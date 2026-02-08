@@ -6,7 +6,7 @@
         "id": "19T33D",
         "Flight": "B60740",
         "PickupDate": "2026-02-09",
-        "PickupTime": "⚠️",
+        "PickupTime": "13:00",
         "HotelName": "Royalton Chic Antigua",
         "HotelNumber": 18628
       },
@@ -14,7 +14,7 @@
         "id": "27609154",
         "Flight": "VS134",
         "PickupDate": "2026-02-09",
-        "PickupTime": "⚠️",
+        "PickupTime": "14:10",
         "HotelName": "Royalton Chic Antigua",
         "HotelNumber": 18628
       },
@@ -22,7 +22,7 @@
         "id": "3NWL8S",
         "Flight": "VS0134",
         "PickupDate": "2026-02-09",
-        "PickupTime": "⚠️",
+        "PickupTime": "14:10",
         "HotelName": "Royalton Chic Antigua",
         "HotelNumber": 18628
       },
@@ -30,7 +30,7 @@
         "id": "4GNH9W",
         "Flight": "AA2467",
         "PickupDate": "2026-02-09",
-        "PickupTime": "⚠️",
+        "PickupTime": "11:15",
         "HotelName": "Royalton Chic Antigua",
         "HotelNumber": 18628
       },
@@ -46,7 +46,7 @@
         "id": "GN5NSS",
         "Flight": "AA2467",
         "PickupDate": "2026-02-09",
-        "PickupTime": "⚠️",
+        "PickupTime": "11:15",
         "HotelName": "Royalton Chic Antigua",
         "HotelNumber": 18628
       },
@@ -54,7 +54,7 @@
         "id": " Constellation",
         "Flight": "AA2124",
         "PickupDate": "2026-02-09",
-        "PickupTime": "⚠️",
+        "PickupTime": "12:00",
         "HotelName": "Royalton Chic Antigua",
         "HotelNumber": 18628
       },
@@ -62,7 +62,7 @@
         "id": " Constellation",
         "Flight": "AA2467",
         "PickupDate": "2026-02-09",
-        "PickupTime": "⚠️",
+        "PickupTime": "11:15",
         "HotelName": "Royalton Chic Antigua",
         "HotelNumber": 18628
       },
